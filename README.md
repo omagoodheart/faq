@@ -1,5 +1,5 @@
-### faq
-#### Working on it
+# FAQ
+# Working on it
 - type something
 1. Now
 2. now
